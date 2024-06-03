@@ -1,5 +1,5 @@
 "use client";
-import HomePage from "../home/page";
+import HomePage from "./home/page";
 import StoreProvider from "../StoreProvider";
 
 const Home = () => {
