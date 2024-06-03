@@ -3,7 +3,7 @@ import "../globals.css";
 import StyledJsxRegistry from "@/lib/registry";
 import GlobalStyles from "@/styles/GlobalStyles";
 import { NextIntlClientProvider } from "next-intl";
-import { getLocale, getMessages } from "next-intl/server";
+import { getMessages } from "next-intl/server";
 
 export const metadata: Metadata = {
   title: "My App",
